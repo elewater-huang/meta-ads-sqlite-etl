@@ -40,3 +40,4 @@ git init
 git add meta_sqlite_etl_v_1.py requirements.txt README.md .gitignore .env.example
 git commit -m "Initial commit: Meta Ads SQLite ETL"# meta-ads-sqlite-etl
 # meta-ads-sqlite-etl
+# meta-ads-sqlite-etl
