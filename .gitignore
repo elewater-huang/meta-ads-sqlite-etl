@@ -7,3 +7,9 @@ meta_ads_old.db
 *.sqlite
 *.sqlite3
 .DS_Store
+
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.db
